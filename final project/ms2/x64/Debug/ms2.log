@@ -1,0 +1,9 @@
+﻿  CustomerOrder.cpp
+  ms2.cpp
+C:\Users\lilyx\OneDrive\Documents\GAP PROGRAM\semester 2\OOP345\final project\ms2\ms2.cpp(176,9): error C2872: 'cout': ambiguous symbol
+  C:\Users\lilyx\OneDrive\Documents\GAP PROGRAM\semester 2\OOP345\final project\ms2\ms2.cpp(12,5):
+  could be 'int cout'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\iostream(39,75):
+  or       'std::ostream std::cout'
+  
+  Generating Code...

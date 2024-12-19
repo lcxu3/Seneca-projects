@@ -1,0 +1,5 @@
+﻿  Event.cpp
+  w1p1.cpp
+  Generating Code...
+w1p1.obj : error LNK2001: unresolved external symbol "int seneca::g_sysClock" (?g_sysClock@seneca@@3HA)
+C:\Users\lilyx\OneDrive\Documents\GAP PROGRAM\semester 2\OOP345\workshop 1\x64\Debug\workshop 1.exe : fatal error LNK1120: 1 unresolved externals

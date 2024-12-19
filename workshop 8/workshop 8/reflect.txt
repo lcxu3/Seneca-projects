@@ -1,0 +1,10 @@
+In this workshop, I learned about raw and smart pointers.
+Raw pointers are pointers that hold an address to that memory location.
+Smart pointers are pointers that can manage the memory of the resource object to which it is pointing.
+I implemented two functions in the utilities.cpp file these are mergeRaw() and mergeSmart().
+These two functions are responsible for merging two lists of descriptions and prices into a list of products.
+For mergeRaw() and mergeSmart() I used the unique_made function to create these smart and raw pointers.
+what the unique_made function does is it will create a new unique pointer to manage the new pointer object.
+In the list header file, I used the plus equal function operator as my raw pointer.
+what this means is it will add the two variables if they add up to each other.
+ otherwise the two variables object does not add then the ill-defined the expression of code.

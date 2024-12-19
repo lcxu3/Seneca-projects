@@ -1,0 +1,16 @@
+﻿  Book.cpp
+  Collection.cpp
+  Movie.cpp
+  spellChecker.cpp
+  w5p1.cpp
+  w5p2.cpp
+  Generating Code...
+C:\Users\lilyx\OneDrive\Documents\GAP PROGRAM\semester 2\OOP345\workshop 5\workshop 5\w5p1.cpp(72,17): warning C4552: '*': result of expression not used
+C:\Users\lilyx\OneDrive\Documents\GAP PROGRAM\semester 2\OOP345\workshop 5\workshop 5\w5p1.cpp(74,17): warning C4552: '*': result of expression not used
+C:\Users\lilyx\OneDrive\Documents\GAP PROGRAM\semester 2\OOP345\workshop 5\workshop 5\w5p1.cpp(110,9): error C2872: 'cout': ambiguous symbol
+  C:\Users\lilyx\OneDrive\Documents\GAP PROGRAM\semester 2\OOP345\workshop 5\workshop 5\w5p1.cpp(7,5):
+  could be 'int cout'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\iostream(39,75):
+  or       'std::ostream std::cout'
+  
+C:\Users\lilyx\OneDrive\Documents\GAP PROGRAM\semester 2\OOP345\workshop 5\workshop 5\Book.cpp(61): error C4716: 'seneca::operator<<': must return a value
